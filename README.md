@@ -3,7 +3,7 @@
 ![alt text](https://github.com/ChenliangEdward/UnityMazeGenerator/blob/main/Pics/3DMazeExample.png?raw=true)
 ![alt text](https://github.com/ChenliangEdward/UnityMazeGenerator/blob/main/Pics/WallthicknessAdjustmentexample.png?raw=true)
 This algorithm generates maze on Unity3D and can be used to provide some inspirations on Level Design. Maze generated with this algorithm ensures that there is one and only one path between two reachable points.
-Key scripts are included 
+Key scripts are included.
 
 Special thanks to YuzhouGuo for providing her  [Maze Generator Algorithm](https://github.com/YuzhouGuo/MazeGeneration_RecursiveBacktracking), this repo contains an improved version for generating a maze.
 
